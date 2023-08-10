@@ -1,4 +1,4 @@
-Migration in Database Nest js
+4 Migration in Database Nest js
 
 Make a db folder
 create file in db folder (data-source.ts)
